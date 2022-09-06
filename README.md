@@ -1,12 +1,12 @@
 # Primeiro Challenge-DataScience-Alura
 
-## PROBLEMA DE NEGÓCIO:
+## INFORMAÇÕES GERAIS
 
 **EMPRESA**:  operadora de telecomunicações **Alura Voz**. 
 
-**QUESTÃO DE NEGÓCIO**: reduzir a **Churn Rate**, ou Taxa de Evasão de Clientes. 
+**OBJETIVO**: reduzir a **Churn Rate**, ou Taxa de Evasão de Clientes. 
 
-**OBJETIVO:** Identificar os clientes que teriam uma maior chance de deixar a empresa. Para isso, é interessante investigar algumas características de clientes ou dos planos de clientes para **CLASSIFICAR** estas pessoas com maior probabilidade de deixar a empresa ou não.
+**COMO FAZER**: Identificar os clientes que teriam uma maior chance de deixar a empresa. A ideia é criar um modelo de **Machine-Learning** para encontrar padrões nas características de clientes e/ou dos planos contratados para **CLASSIFICAR** estas pessoas com maior probabilidade de deixar a empresa ou não. 
 
 
 ## 01 - Limpeza e pré-tratamento dos dados
