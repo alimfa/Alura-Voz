@@ -74,4 +74,4 @@ Além disso, a Curva ROC e AUC do modelo Logistic Regression também permaneceu 
 
 
 Sendo assim, o modelo indicado para Classificar nossos clientes e reduzir a *Churn Rate* é o modelo de **Logistic Regression**.
-O desenvolvimento e análise dos modelos de Machine Learing completos  está no [notebook](3-Machine-Learning-para-Classificacao.ipynb).
+O desenvolvimento e análise dos modelos de Machine Learing completos  está no [notebook](3-Modelo-Machine-Learning-para-Classificacao.ipynb).
