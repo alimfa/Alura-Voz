@@ -2,6 +2,7 @@
 
 ## INFORMAÇÕES GERAIS
 
+
 **EMPRESA FICTÍCIA**:  operadora de telecomunicações **Alura Voz**. 
 
 **OBJETIVO**: reduzir a **Churn Rate**, ou Taxa de Evasão de Clientes. 
